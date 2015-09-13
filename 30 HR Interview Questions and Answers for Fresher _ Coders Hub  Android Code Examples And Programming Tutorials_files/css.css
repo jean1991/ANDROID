@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Bentham';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bentham'), local('Bentham-Regular'), url(http://fonts.gstatic.com/s/bentham/v6/SVc3EWThHQ2hzWZPpEYHFw.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Cambria';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Cambria Bold'), local('Cambria-Bold'), url(http://fonts.gstatic.com/l/font?kit=wkshsMjunzKumD3zh1j69fk_vArhqVIZ0nv9q090hN8&skey=5202a3b6f5388b49) format('woff2');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Serif'), local('DroidSerif'), url(http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/pEobIV_lL25TKBpqVI_a2w.woff2) format('woff2');
+}

@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="common_padding">7dp</dimen>
+    <dimen name="textview_padding">15dp</dimen>
+    <dimen name="textview_padding_1">10dp</dimen>
+</resources>
